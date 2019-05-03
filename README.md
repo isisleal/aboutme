@@ -4,17 +4,21 @@
 Hoje, trabalho ainda como mediadora pedagógica de curso de graduação. A experiencia com a docência, através desse trabalho e de estágios desenvolvidos na universidade, adquiri também uma boa fluência verbal e capacidade de organização. 
 Insatisfeita com minha carreira na Antropologia, em 2018 decidi fazer minha transição de carreira para a área de tecnologia, a qual vinha começando a me interessar. Desde então, por ter uma grande facilidade de aprender, optei por estudar principalmente com recursos online, como cursos à distância, vídeos, blogs e fóruns. Conhecimentos que acumulei até então: 
 
-Tecnologias que domino: 
+####Tecnologias que domino: 
+#Markdown
 - HTML5 (boas noções de semântica e acessibilidade)
 - CSS3 (boas noções de e design responsivo com mobile first)
 - Bootstrap 
-Bom conhecimento:
+####Bom conhecimento:
+#Markdown
 - JavaScript vanilla
 - GitHub Desktop
-Tenho boa noção: 
+####Tenho boa noção: 
+#Markdown
 - ReactJS
 - Firebase
-Tenho alguma noção: 
+####Tenho alguma noção: 
+#Markdown
 - MongoDB (Atlas)
 - Node.js
 - UX
