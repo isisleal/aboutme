@@ -24,4 +24,8 @@
 - UX
 
 
-#### Parte de meus estudos com essas tecnologias encontram-se em outros reporitórios.
+
+
+
+
+##### Parte de meus estudos com essas tecnologias encontram-se em outros reporitórios.
