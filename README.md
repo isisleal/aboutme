@@ -21,7 +21,8 @@
 # 
 - MongoDB (Atlas)
 - Node.js
-- UX
+- Git
+- Noções de UX
 
 
 
