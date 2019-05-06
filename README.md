@@ -9,16 +9,19 @@
 - HTML5 (boas noções de semântica e acessibilidade)
 - CSS3 (boas noções de e design responsivo com mobile first)
 - Bootstrap 
-#### Bom conhecimento:
+#### Tecnologias que tenho bom conhecimento:
 # 
 - JavaScript vanilla
 - GitHub Desktop
-#### Tenho boa noção: 
+#### Tecnologias que tenho boa familiaridade: 
 # 
 - ReactJS
 - Firebase
-#### Tenho alguma noção: 
+#### Tecnologias que tenho alguma familiaridade: 
 # 
 - MongoDB (Atlas)
 - Node.js
 - UX
+
+
+#### Parte de meus estudos com essas tecnologias encontram-se em outros reporitórios.
